@@ -1,0 +1,8 @@
+{"level":"error","ts":"2021-08-12T17:41:43.256+0800","caller":"log/log.go:165","msg":"load config err","content":[{"FilePath":"./"}],"file":"/Users/lihongsheng/shihuituan/go-frame/main.go","line":9}
+{"level":"error","ts":"2021-08-12T17:41:43.256+0800","caller":"log/log.go:165","msg":"Unmarshal config err","content":[{"FilePath":"./"}],"file":"/Users/lihongsheng/shihuituan/go-frame/main.go","line":9}
+{"level":"error","ts":"2021-08-12T17:43:28.682+0800","caller":"log/log.go:165","msg":"load config err","content":[{"FilePath":"./"}],"file":"/Users/lihongsheng/shihuituan/go-frame/main.go","line":10}
+{"level":"error","ts":"2021-08-12T17:43:28.684+0800","caller":"log/log.go:165","msg":"Unmarshal config err","content":[{"FilePath":"./"}],"file":"/Users/lihongsheng/shihuituan/go-frame/main.go","line":10}
+{"level":"error","ts":"2021-08-12T17:44:06.396+0800","caller":"log/log.go:165","msg":"load config err","content":[{"FilePath":"./"}],"file":"/Users/lihongsheng/shihuituan/go-frame/main.go","line":10}
+{"level":"error","ts":"2021-08-12T17:44:06.397+0800","caller":"log/log.go:165","msg":"Unmarshal config err","content":[{"FilePath":"./"}],"file":"/Users/lihongsheng/shihuituan/go-frame/main.go","line":10}
+{"level":"error","ts":"2021-08-12T17:45:08.082+0800","caller":"log/log.go:165","msg":"Unmarshal config err","content":[{"FilePath":"./"}],"file":"/Users/lihongsheng/shihuituan/go-frame/main.go","line":10}
+{"level":"error","ts":"2021-08-12T17:45:56.898+0800","caller":"log/log.go:165","msg":"Unmarshal config err","content":[{"FilePath":"./","ErrInfo":"result must be addressable (a pointer)"}],"file":"/Users/lihongsheng/shihuituan/go-frame/main.go","line":10}

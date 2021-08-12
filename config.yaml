@@ -1,0 +1,17 @@
+#端口
+port: 9081
+#release,debug,test
+mode: release
+log_path:
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: root
+  password: 123456
+  chart: "utf8mb4"
+  db_name: "book"
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  user:
+  password:
